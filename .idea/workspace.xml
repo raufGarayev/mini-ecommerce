@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/frontend/src/index.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
@@ -50,7 +49,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -100,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676807270081</updated>
       <workItem from="1676807271182" duration="14330000" />
-      <workItem from="1676835766368" duration="344000" />
+      <workItem from="1676835766368" duration="4188000" />
     </task>
     <servers />
   </component>
