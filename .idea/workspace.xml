@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7806f2-9686-4232-aa3f-db28cc81ec99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/features/cartSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/features/productsApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/features/productsSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
-    </list>
+    <list default="true" id="6c7806f2-9686-4232-aa3f-db28cc81ec99" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676807270081</updated>
       <workItem from="1676807271182" duration="14330000" />
-      <workItem from="1676835766368" duration="4188000" />
+      <workItem from="1676835766368" duration="4248000" />
     </task>
     <servers />
   </component>
